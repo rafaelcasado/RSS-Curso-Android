@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textH1">40dp</dimen>
+    <dimen name="textH2">30dp</dimen>
+    <dimen name="text_small">10dp</dimen>    
+    
+</resources>
